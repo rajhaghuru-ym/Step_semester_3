@@ -10,13 +10,13 @@
 
 \- Solved P1-P5:
 
-&nbsp;	Voting Eligibility Checker, 
+&nbsp;	Voting Eligibility Checker
 
-&nbsp;	ATM PIN Retry System, 
+&nbsp;	ATM PIN Retry System
 
-&nbsp;	Number Pyramid Pattern, 
+&nbsp;	Number Pyramid Pattern
 
-&nbsp;	Grade Classifier, 
+&nbsp;	Grade Classifier
 
 &nbsp;	Day Name From Number
 
